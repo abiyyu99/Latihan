@@ -343,7 +343,7 @@
                         </div>
                     </a>
                 </div>
-                {{-- Akhir MAP --}}
+                {{-- Akhir      MAP --}}
 
                 {{-- MPR --}}
                 <div class="col-sm-4 mb-1">
